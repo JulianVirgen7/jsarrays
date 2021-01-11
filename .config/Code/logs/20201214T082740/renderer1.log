@@ -2,3 +2,4 @@
 [2021-01-10 13:05:57.966] [renderer1] [error] Failed to execute git
 [2021-01-10 13:09:36.350] [renderer1] [error] Failed to execute git
 [2021-01-10 13:09:43.236] [renderer1] [error] Failed to execute git
+[2021-01-11 08:16:45.798] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.git' took 45% of 766.694ms, saved PROFILE here: '/tmp/exthost-7d7b3f.cpuprofile' [{"id":"gc","total":254971,"percentage":33},{"id":"program","total":112208,"percentage":15},{"id":"self","total":52194,"percentage":7},{"id":"vscode.git","total":343101,"percentage":45}]
