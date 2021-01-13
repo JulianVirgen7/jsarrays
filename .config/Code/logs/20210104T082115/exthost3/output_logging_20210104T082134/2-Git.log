@@ -48,3 +48,14 @@ Warning: Failed to watch ref '/home/_21jvirgen/sandbox/studentnew/.git/refs/remo
 > git show --textconv :pages/page1.html
 Warning: Failed to watch ref '/home/_21jvirgen/sandbox/studentnew/.git/refs/remotes/origin/main', is most likely packed.
 > git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/_21jvirgen/sandbox/studentnew/pages/page1.html
+> git rev-parse main
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git show --textconv :pages/page1.html
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

@@ -2,6 +2,7 @@
     "telemetry.machineId": "2ad7242d9f8ccbdd2af6c1c6ec8bf24219bed9680ad967ddd65de4113f237cdc",
     "openedPathsList": {
         "workspaces3": [
+            "file:///home/_21jvirgen/Group-Project",
             "file:///home/_21jvirgen/sandbox/studentnew",
             "file:///home/_21jvirgen"
         ],
@@ -9,40 +10,17 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/_21jvirgen",
-            "backupPath": "/home/_21jvirgen/.config/Code/Backups/09eb67ddd0d7c134490ca6da21105274",
+            "folder": "file:///home/_21jvirgen/Group-Project",
+            "backupPath": "/home/_21jvirgen/.config/Code/Backups/5e7d068b1294b2c7568c3eeb0f5e36be",
             "uiState": {
                 "mode": 1,
                 "x": 357,
-                "y": 38,
+                "y": 75,
                 "width": 803,
-                "height": 777
+                "height": 703
             }
         },
-        "openedWindows": [
-            {
-                "folder": "file:///home/_21jvirgen",
-                "backupPath": "/home/_21jvirgen/.config/Code/Backups/09eb67ddd0d7c134490ca6da21105274",
-                "uiState": {
-                    "mode": 1,
-                    "x": 357,
-                    "y": 38,
-                    "width": 803,
-                    "height": 777
-                }
-            },
-            {
-                "folder": "file:///home/_21jvirgen/sandbox/studentnew",
-                "backupPath": "/home/_21jvirgen/.config/Code/Backups/7339e29ac11823d9be3e8d74a6b4acce",
-                "uiState": {
-                    "mode": 1,
-                    "x": 384,
-                    "y": 16,
-                    "width": 748,
-                    "height": 821
-                }
-            }
-        ]
+        "openedWindows": []
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -78,7 +56,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -87,13 +66,13 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/_21jvirgen",
-                                        "external": "file:///home/_21jvirgen",
-                                        "path": "/home/_21jvirgen",
+                                        "fsPath": "/home/_21jvirgen/Group-Project",
+                                        "external": "file:///home/_21jvirgen/Group-Project",
+                                        "path": "/home/_21jvirgen/Group-Project",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "/home/_21jvirgen"
+                                    "label": "~/Group-Project"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -105,6 +84,17 @@
                                     },
                                     "enabled": true,
                                     "label": "~/sandbox/studentnew"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/_21jvirgen",
+                                        "path": "/home/_21jvirgen",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/home/_21jvirgen"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
