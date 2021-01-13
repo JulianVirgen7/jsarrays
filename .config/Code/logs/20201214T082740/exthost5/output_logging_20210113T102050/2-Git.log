@@ -1,0 +1,27 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --git-dir
+Open repository: /home/_21jvirgen/Group-Project/Group-Project
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git check-ignore -v -z --stdin
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/_21jvirgen/Group-Project/Group-Project/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/_21jvirgen/Group-Project/Group-Project/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :HTML
+> git ls-files --stage -- /home/_21jvirgen/Group-Project/Group-Project/HTML
+> git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc

@@ -1092,3 +1092,80 @@ fatal: no upstream configured for branch 'master'
 > git remote --verbose
 > git config --get commit.template
 > git add -A -- /home/_21jvirgen/.config/Code/Cache/index-dir/the-real-index /home/_21jvirgen/.config/Code/User/globalStorage/state.vscdb /home/_21jvirgen/.config/Code/logs/20210113T054851/exthost4/output_logging_20210113T054911/2-Git.log /home/_21jvirgen/.config/Code/storage.json /home/_21jvirgen/Group-Project
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/_21jvirgen/Group-Project/index.html
+> git show --textconv :Group-Project/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/_21jvirgen/Group-Project/index.html
+> git show --textconv :Group-Project/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git clone https://github.com/JulianVirgen7/Group-Project.git /home/_21jvirgen/Group-Project/Group-Project --progress
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Cloning into '/home/_21jvirgen/Group-Project/Group-Project'...
+remote: Enumerating objects: 18, done.        
+remote: Counting objects:   5% (1/18)        remote: Counting objects:  11% (2/18)        remote: Counting objects:  16% (3/18)        remote: Counting objects:  22% (4/18)        remote: Counting objects:  27% (5/18)        remote: Counting objects:  33% (6/18)        remote: Counting objects:  38% (7/18)        remote: Counting objects:  44% (8/18)        remote: Counting objects:  50% (9/18)        remote: Counting objects:  55% (10/18)        remote: Counting objects:  61% (11/18)        remote: Counting objects:  66% (12/18)        remote: Counting objects:  72% (13/18)        remote: Counting objects:  77% (14/18)        remote: Counting objects:  83% (15/18)        remote: Counting objects:  88% (16/18)        remote: Counting objects:  94% (17/18)        remote: Counting objects: 100% (18/18)        remote: Counting objects: 100% (18/18), done.        
+remote: Compressing objects:  10% (1/10)        remote: Compressing objects:  20% (2/10)        remote: Compressing objects:  30% (3/10)        remote: Compressing objects:  40% (4/10)        remote: Compressing objects:  50% (5/10)        remote: Compressing objects:  60% (6/10)        remote: Compressing objects:  70% (7/10)        remote: Compressing objects:  80% (8/10)        remote: Compressing objects:  90% (9/10)        remote: Compressing objects: 100% (10/10)        remote: Compressing objects: 100% (10/10), done.        
+remote: Total 18 (delta 1), reused 0 (delta 0), pack-reused 0        
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :Group-Project/style.css
+> git ls-files --stage -- /home/_21jvirgen/Group-Project/style.css
+> git show --textconv :Group-Project/index.html
+> git ls-files --stage -- /home/_21jvirgen/Group-Project/index.html
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/_21jvirgen/Group-Project/index.html
+> git show --textconv :Group-Project/index.html
+> git check-ignore -v -z --stdin
+> git add -A -- .

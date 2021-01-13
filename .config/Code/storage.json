@@ -2,6 +2,7 @@
     "telemetry.machineId": "2ad7242d9f8ccbdd2af6c1c6ec8bf24219bed9680ad967ddd65de4113f237cdc",
     "openedPathsList": {
         "workspaces3": [
+            "file:///home/_21jvirgen/Group-Project/Group-Project",
             "file:///home/_21jvirgen/Group-Project",
             "file:///home/_21jvirgen/sandbox/studentnew",
             "file:///home/_21jvirgen"
@@ -72,6 +73,17 @@
                                     },
                                     "enabled": true,
                                     "label": "~/Group-Project"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/_21jvirgen/Group-Project/Group-Project",
+                                        "path": "/home/_21jvirgen/Group-Project/Group-Project",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Group-Project/Group-Project"
                                 },
                                 {
                                     "id": "openRecentFolder",
