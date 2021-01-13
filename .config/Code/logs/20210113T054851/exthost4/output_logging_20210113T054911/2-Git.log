@@ -582,3 +582,383 @@ fatal: no upstream configured for branch 'master'
 > git config --get commit.template
 > git show --textconv :Group-Project/index.html
 > git add -A -- .
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git ls-files --stage -- /home/_21jvirgen/Group-Project/index.html
+> git config --get commit.template
+> git show --textconv :Group-Project/index.html
+> git remote add Group-Project https://github.com/JulianVirgen7/Group-Project.git
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git ls-files --stage -- /home/_21jvirgen/Group-Project/index.html
+> git config --get commit.template
+> git fetch Group-Project
+> git show --textconv :Group-Project/index.html
+From https://github.com/JulianVirgen7/Group-Project
+ * [new branch]      main       -> Group-Project/main
+ * [new branch]      master     -> Group-Project/master
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/_21jvirgen/Group-Project/index.html
+> git show --textconv :Group-Project/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git push Group-Project master
+To https://github.com/JulianVirgen7/Group-Project.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/JulianVirgen7/Group-Project.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/_21jvirgen/Group-Project/index.html
+> git show --textconv :Group-Project/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git ls-files --stage -- /home/_21jvirgen/Group-Project/index.html
+> git show --textconv :Group-Project/index.html
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv HEAD:.config/Code/Cache/index-dir/the-real-index
+> git ls-tree -l HEAD -- /home/_21jvirgen/.config/Code/Cache/index-dir/the-real-index
+> git ls-tree -l HEAD -- /home/_21jvirgen/.config/Code/Cache/index-dir/the-real-index
+> git check-ignore -v -z --stdin
+> git ls-tree -l HEAD -- /home/_21jvirgen/.config/Code/Cache/index-dir/the-real-index
+> git show --textconv HEAD:.config/Code/GPUCache/data_1
+> git ls-tree -l HEAD -- /home/_21jvirgen/.config/Code/GPUCache/data_1
+> git ls-tree -l HEAD -- /home/_21jvirgen/.config/Code/GPUCache/data_1
+> git check-ignore -v -z --stdin
+> git ls-tree -l HEAD -- /home/_21jvirgen/.config/Code/GPUCache/data_1
+> git show --textconv :Group-Project/index.html
+> git ls-files --stage -- /home/_21jvirgen/Group-Project/index.html
+> git pull --tags
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=<remote>/<branch> master
+> git ls-files --stage -- /home/_21jvirgen/Group-Project/index.html
+> git show --textconv :Group-Project/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/_21jvirgen/Group-Project/index.html
+> git show --textconv :Group-Project/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/_21jvirgen/Group-Project/index.html
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git show --textconv :Group-Project/index.html
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git pull --tags -r
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+> git ls-files --stage -- /home/_21jvirgen/Group-Project/index.html
+> git show --textconv :Group-Project/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git push JulianVirgen7 master
+To https://github.com/JulianVirgen7/Group-Project.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/JulianVirgen7/Group-Project.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+> git pull --tags JulianVirgen7 main
+> git ls-files --stage -- /home/_21jvirgen/Group-Project/index.html
+> git show --textconv :Group-Project/index.html
+From https://github.com/JulianVirgen7/Group-Project
+ * branch            main       -> FETCH_HEAD
+fatal: refusing to merge unrelated histories
+> git ls-files --stage -- /home/_21jvirgen/Group-Project/index.html
+> git show --textconv :Group-Project/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git push JulianVirgen7 master
+To https://github.com/JulianVirgen7/Group-Project.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/JulianVirgen7/Group-Project.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/_21jvirgen/Group-Project/index.html
+> git show --textconv :Group-Project/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/_21jvirgen/Group-Project/index.html
+> git show --textconv :Group-Project/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git pull --tags
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=<remote>/<branch> master
+> git ls-files --stage -- /home/_21jvirgen/Group-Project/index.html
+> git show --textconv :Group-Project/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :Group-Project/index.html
+> git ls-files --stage -- /home/_21jvirgen/Group-Project/index.html
+> git push JulianVirgen7 master
+To https://github.com/JulianVirgen7/Group-Project.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/JulianVirgen7/Group-Project.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/_21jvirgen/Group-Project/index.html
+> git show --textconv :Group-Project/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/_21jvirgen/Group-Project/index.html
+> git show --textconv :Group-Project/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git for-each-ref --format %(refname:short)%00%(upstream:short) refs/heads
+> git checkout -q --track JulianVirgen7/main
+error: Your local changes to the following files would be overwritten by checkout:
+	.config/Code/Cache/cbc42e4c979f69f0_0
+	.config/Code/Cache/index-dir/the-real-index
+	.config/Code/GPUCache/data_1
+	.config/Code/User/globalStorage/state.vscdb
+	.config/Code/User/workspaceStorage/430422ecf4b138d5c6b7926337d0f63b/state.vscdb
+	.config/Code/logs/20210113T054851/exthost4/exthost.log
+	.config/Code/logs/20210113T054851/exthost4/output_logging_20210113T054911/2-Git.log
+	.config/Code/logs/20210113T054851/renderer4.log
+	.config/Code/storage.json
+Please commit your changes or stash them before you switch branches.
+Aborting
+> git for-each-ref --format %(refname:short)%00%(upstream:short) refs/heads
+> git checkout -q --track Group-Project/master
+fatal: A branch named 'master' already exists.
+> git for-each-ref --format %(refname:short)%00%(upstream:short) refs/heads
+> git checkout -q --track JulianVirgen7/main
+error: Your local changes to the following files would be overwritten by checkout:
+	.config/Code/Cache/cbc42e4c979f69f0_0
+	.config/Code/Cache/index-dir/the-real-index
+	.config/Code/GPUCache/data_1
+	.config/Code/User/globalStorage/state.vscdb
+	.config/Code/User/workspaceStorage/430422ecf4b138d5c6b7926337d0f63b/state.vscdb
+	.config/Code/logs/20210113T054851/exthost4/exthost.log
+	.config/Code/logs/20210113T054851/exthost4/output_logging_20210113T054911/2-Git.log
+	.config/Code/logs/20210113T054851/renderer4.log
+	.config/Code/storage.json
+Please commit your changes or stash them before you switch branches.
+Aborting
+> git for-each-ref --format %(refname:short)%00%(upstream:short) refs/heads
+> git checkout -q --track JulianVirgen7/main
+error: Your local changes to the following files would be overwritten by checkout:
+	.config/Code/Cache/cbc42e4c979f69f0_0
+	.config/Code/Cache/index-dir/the-real-index
+	.config/Code/GPUCache/data_1
+	.config/Code/User/globalStorage/state.vscdb
+	.config/Code/User/workspaceStorage/430422ecf4b138d5c6b7926337d0f63b/state.vscdb
+	.config/Code/logs/20210113T054851/exthost4/exthost.log
+	.config/Code/logs/20210113T054851/exthost4/output_logging_20210113T054911/2-Git.log
+	.config/Code/logs/20210113T054851/renderer4.log
+	.config/Code/storage.json
+Please commit your changes or stash them before you switch branches.
+Aborting
+> git for-each-ref --format %(refname:short)%00%(upstream:short) refs/heads
+> git checkout -q --track JulianVirgen7/main
+error: Your local changes to the following files would be overwritten by checkout:
+	.config/Code/Cache/cbc42e4c979f69f0_0
+	.config/Code/Cache/index-dir/the-real-index
+	.config/Code/GPUCache/data_1
+	.config/Code/User/globalStorage/state.vscdb
+	.config/Code/User/workspaceStorage/430422ecf4b138d5c6b7926337d0f63b/state.vscdb
+	.config/Code/logs/20210113T054851/exthost4/exthost.log
+	.config/Code/logs/20210113T054851/exthost4/output_logging_20210113T054911/2-Git.log
+	.config/Code/logs/20210113T054851/renderer4.log
+	.config/Code/storage.json
+Please commit your changes or stash them before you switch branches.
+Aborting
+> git add -A -- /home/_21jvirgen/.config/Code/Cache/cbc42e4c979f69f0_0 /home/_21jvirgen/.config/Code/Cache/index-dir/the-real-index /home/_21jvirgen/.config/Code/GPUCache/data_1 /home/_21jvirgen/.config/Code/User/globalStorage/state.vscdb /home/_21jvirgen/.config/Code/User/workspaceStorage/430422ecf4b138d5c6b7926337d0f63b/state.vscdb /home/_21jvirgen/.config/Code/logs/20210113T054851/exthost4/exthost.log /home/_21jvirgen/.config/Code/logs/20210113T054851/exthost4/output_logging_20210113T054911/2-Git.log /home/_21jvirgen/.config/Code/logs/20210113T054851/renderer4.log /home/_21jvirgen/.config/Code/storage.json /home/_21jvirgen/Group-Project

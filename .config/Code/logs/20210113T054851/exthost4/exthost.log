@@ -28,3 +28,4 @@
 [2021-01-13 07:11:00.902] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
 [2021-01-13 07:11:01.243] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
 [2021-01-13 07:11:01.244] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-01-13 08:50:40.759] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/_21jvirgen/Group-Project/git' is in submodule 'Group-Project'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
