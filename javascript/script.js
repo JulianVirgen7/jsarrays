@@ -18,3 +18,17 @@ let divide = 10 / 2;
 console.log('name:', name);
 console.log('sum of 5 + 5:', sum);
 console.log('10 / 2 is:', divide);
+
+function add(a, b) { //passenger are called parameters
+
+    //var vs let = scoping    
+    let sum = a+b;
+    return sum
+    //return a+b  
+    
+    }
+    
+    let a=1;
+    let b=5
+    
+    console.log(add(1,5));
