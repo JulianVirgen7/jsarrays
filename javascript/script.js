@@ -32,3 +32,22 @@ function add(a, b) { //passenger are called parameters
     let b=5
     
     console.log(add(1,5));
+
+    //JavaScript Loops
+    //While loop
+
+    let n = 0;
+
+while (n < 3) {
+  n++;
+}
+
+console.log(n);
+// expected output: 3
+
+//lab 49
+let str = '';
+
+for (let i = 2; i < 7; i++) {
+  str = str + i;
+}
